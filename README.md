@@ -11,3 +11,9 @@ Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 10%)
 Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 60%)
 * Belajar OOP Kotlin
 * Kotlin Fungsional programming
+
+**24 September 2024**<br>
+Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 100%)
+* Belajar Kotlin Generics
+* Kotlin Coroutines
+* Mendapat sertifikat Memulai Pemrograman dengan Kotlin
