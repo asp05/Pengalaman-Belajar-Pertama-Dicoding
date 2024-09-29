@@ -17,3 +17,6 @@ Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 100%)
 * Belajar Kotlin Generics
 * Kotlin Coroutines
 * Mendapat sertifikat Memulai Pemrograman dengan Kotlin
+
+
+cek ini cek asal we da ini teh nantinya mau di revert
