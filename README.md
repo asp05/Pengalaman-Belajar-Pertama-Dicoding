@@ -22,3 +22,4 @@ Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 100%)
 Istirahat
 
 Squash 1
+Squash 2
