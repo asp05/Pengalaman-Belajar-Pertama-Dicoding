@@ -20,5 +20,3 @@ Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 100%)
 
 **25 September 2024**<br>
 Istirahat
-
-cadjkandkjnajdknada
