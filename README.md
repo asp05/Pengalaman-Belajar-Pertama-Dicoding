@@ -1,0 +1,8 @@
+# Pengalaman Belajar di Dicoding
+
+**17 September 2024**<br>
+Belajar kelas Memulai Memulai Pemrograman dengan Kotlin. (Progres 10%)
+* Belajar tentang apa itu Kotlin dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa kotlin.
+* Belajar Kotlin Fundamental
+* Belajar Control Flow
